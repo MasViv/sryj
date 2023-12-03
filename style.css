@@ -1,0 +1,24 @@
+.heading
+{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+
+.note
+{
+    font-size:20px;
+    color:greenyellow;
+    font-weight:bolder;
+}
+
+body
+{
+    background-size:cover;
+}
+
+canvas
+{
+    border-color:white;
+    box-shadow: white 20px 40px 50px;
+}
